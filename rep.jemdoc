@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{rep.html}
+= Code and Informal Technical Reports
+
+- My github page is [https://github.com/ycemsubakan here]. But of the older (matlab) codes are below.  
+ 
+== Bayesian Non-Parametrics
+
+- Step by step derivation of a variational Bayes for an infinite mixture (GMM in the report), code is also available: [reps/vb_infmix.zip files]
+
+- Image segmentation with MRF coupled infinite mixture model. Send me an e-mail if you are interested in the code. [reps/crp_segmentation.pdf report]
+
+== Method of Moments
+
+- Space Efficient Implementation of the Tensor Power Method (Method of moments without forming the moment tensor!). Here are the files: [reps/tensor_power_method.zip files]  
+
+== Talks
+
+- November 2017, UIUC CS598PS Guest lecture on implicit generative model learning (GANs are an instance of this) [talks/pres2.pdf  slides]
+
+- November 2017, UIUC CS598PS Guest lecture on latent variable models [talks/pres1.pdf  slides]
+
+- June 2017, Uber AI labs talk on global learning for time series [talks/pres_u.pdf slides]

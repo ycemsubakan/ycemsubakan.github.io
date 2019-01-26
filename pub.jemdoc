@@ -1,0 +1,59 @@
+# jemdoc: menu{MENU}{pub.html}
+= Publications
+ 
+== Theses
+
+- M.Sc. Thesis: "Probabilistic Time Series Classification", [papers/thesis.pdf pdf], [papers/thesisdef.pdf slides]
+
+- Ph.D. Thesis: "Generative Modeling of Sequential Data", [papers/thesis_phd.pdf pdf], [papers/phd-defense.pdf slides]
+
+== Journal
+
+- "Probabilistic Sequence Clustering with Spectral Learning'', Elsevier Digital Signal Processing (DSP), Subakan, Y.C.; Kurt, B. ; Cemgil, A.T; Sankur, B. [http://www.sciencedirect.com/science/article/pii/S1051200414000517 elsevier_link] 
+ 
+
+== Conference
+
+- "Generative Adversarial Source Separation", ICASSP 2018, Y.C. Subakan; P.Smaragdis [https://arxiv.org/abs/1710.10779 arxiv_link], [talks/pres.pdf presentation] 
+
+- "Neural Network Alternatives to Convolutive Models for Source Separation", *(Won the best student paper award)* IEEE Workshop on Machine Learning for Signal Processing (MLSP)  2017, S. Venkataramani; Y.C. Subakan; P. Smaragdis [https://arxiv.org/abs/1709.07908 arxiv_link]
+
+- “Diagonal RNNs in Symbolic Music Modeling”, IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA) 2017, Y. C. Subakan; P. Smaragdis; [https://arxiv.org/abs/1704.05420 arxiv_link]
+
+- “Method of Moments for Left-to-Right Hidden Markov Models”, IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2015, Y. C. Subakan; J. Traa; P. Smaragdis; D. Hsu [papers/waspaa2015_final.pdf pdf]
+
+- "Spectral Learning of Mixture of Hidden Markov Models", Neural Information Processing Systems (NIPS), 2014, Y. C. Subakan; J. Traa; P. Smaragdis [papers/nips2014.pdf pdf]
+
+
+- "Stereo Matching with Partial Information",  SPIE 3D Image Processing (3DIP) and Applications 2013, Subakan, Y.C.;  Gurol, O.C.; Dikici, C." [http://ycemsubakan.files.wordpress.com/2011/09/infmatch.pdf pdf]
+
+- "Model Based Probabilistic Piecewise Curve Approximation", European Signal Processing Conference (EUSIPCO) 2012, Subakan, Y.C.; Sankur, B. [http://ycemsubakan.files.wordpress.com/2011/09/eusipco_probcurve.pdf pdf]
+
+- "Probabilistic Latent Tensor Factorization Framework for Audio Modeling", in Proc. IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2011, Cemgil, A.T; Simsekli, U.; Subakan, Y.C. [http://ycemsubakan.files.wordpress.com/2011/09/waspaafinal.pdf pdf]
+
+== Conference (In Turkish)
+
+- "Spectral Learning of Mixtures of Hidden Markov Models", IEEE 21th Signal Processing and Communications Applications Conference (SIU), 2013, Y. C. Subakan; O. Celiktutan; A. T. Cemgil; B. Sankur (in Turkish) [papers/siu2013.pdf pdf]
+
+- "Model Based Bayesian Curve Compression", (Nominated for best paper award), IEEE 20th Signal Processing and Communications Applications Conference (SIU), 2012, Subakan, Y.C.; Sankur, B.; Akgul, C.B. (in Turkish) [http://ycemsubakan.files.wordpress.com/2011/09/bayesegrianalizi_siu2012.pdf pdf]
+
+- "A latent tensor factorization framework for non-negative convolutive models'', IEEE 19th Signal Processing and Communications Applications Conference (SIU), 2011, Simsekli, U.; Subakan, Y.C.; Cemgil, A.T. (in Turkish) [http://ycemsubakan.files.wordpress.com/2011/09/deconvolution_siu.pdf pdf]
+
+- "An automatic maneuver assessment system for radio controlled acrobatic model helicopter competitions", IEEE 19th Signal Processing and Communications Applications Conference (SIU), 2011, Subakan, Y.C.; Agcaoglu, O.; Sankur, B. (in Turkish) [http://ycemsubakan.files.wordpress.com/2011/09/heli_manevra_siu_2011.pdf pdf]
+
+== Workshop 
+
+- " Spectral Learning for Mixture of Markov Models'', Spectral Learning Workshop, Neural Information Processing Systems (NIPS) 2013, Subakan, Y.C.; Kurt, B. ; Cemgil, A.T; Sankur, B. [papers/mmarkov.pdf pdf], [papers/mmarkovsupplement.pdf supplemental], [papers/poster_mmarkov.pdf poster]
+
+- " Spectral Learning of Infinite Mixtures of Hidden Markov Models for Human Action Recognition'', Spectral Learning Workshop, Neural Information Processing Systems (NIPS) 2012, Subakan, Y.C.;  Celiktutan O. ; Cemgil, A.T; Sankur, B. [http://ycemsubakan.files.wordpress.com/2011/09/shmm_clustering.pdf pdf]
+
+== Preprints
+
+- “Learning the Base Distribution in Implicit Generative Models”, 2018, Y. C. Subakan; O. Koyejo; P. Smaragdis; [https://arxiv.org/abs/1803.04357 arxiv_link]
+
+- “A Dictionary Learning Approach for Factorial Gaussian Models”, 2015, Y. C. Subakan; J. Traa; P. Smaragdis; N. Stein [http://arxiv.org/abs/1508.04486 arxiv_link], [papers/nips2015supp.pdf supplemental_mat]
+
+- “Spectral Learning of Hidden Markov Models with Group Persistence”, 2015, Y. C. Subakan; J. Traa; P. Smaragdis [papers/icml2015.pdf pdf], [papers/supp_mat_icml2015.pdf supplemental_mat]
+
+- “Efficient Learning for Time Series Models by Non-Negative Matrix Factorization”, 2014, Y. C. Subakan; J. Traa; P. Smaragdis [papers/HMM_NMF_unify.pdf pdf], [papers/MoM_NMF_supplemental.pdf supplemental_mat]
+

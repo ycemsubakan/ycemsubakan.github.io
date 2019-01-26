@@ -1,0 +1,6 @@
+menu
+	home         [index.html]
+        publications [pub.html]
+	codes, reports, talks [rep.html]
+        cool stuff   [cool.html]
+	my blog      [http://mazeofamazement.wordpress.com]

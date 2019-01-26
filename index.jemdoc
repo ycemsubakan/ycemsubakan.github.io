@@ -1,0 +1,47 @@
+# jemdoc: menu{MENU}{index.html}
+= Y. Cem Subakan 
+
+~~~
+{}{img_left}{images/cem4_c.jpg}{cem}{340}{300}{images/cem4.jpg}
+Y. Cem Subakan, PhD Student \n
+[http://www.cs.illinois.edu Computer Science Department] \n
+[http://www.illinois.edu University of Illinois at Urbana-Champaign] 
+~~~
+
+
+
+I obtained my B.Sc. and M.Sc. degrees from [http://www.ee.boun.edu.tr Bogazici University EE department], respectively in 2011 and 2013. In Bogazici, I worked with [http://www.cmpe.boun.edu.tr/~cemgil/index.html A. Taylan Cemgil] and [http://www.busim.ee.boun.edu.tr/~sankur/ Bulent Sankur]. My PhD advisor is [http://www.cs.illinois.edu/~paris/ Paris Smaragdis].
+
+== Research Interests
+
+- Machine Learning, Statistical Learning
+- Time series modeling
+- Bayesian inference
+- Non-convex optimization
+- Method of Moments based learning algorithms for Latent Variable Models
+- Source separation 
+
+== Representative papers
+
+- [https://arxiv.org/abs/1803.04357 Learning the Base Distribution in Implicit Generative Models]
+- [https://arxiv.org/abs/1710.10779 Generative Adversarial Source Separation]
+- [https://papers.nips.cc/paper/5518-spectral-learning-of-mixture-of-hidden-markov-models Spectral Learning of Mixture of HMMs]
+
+== Timeline
+
+- Our [https://arxiv.org/abs/1709.07908 paper] won the best student paper award in MLSP 2017. 
+- I have visited Columbia in Fall 2015. 
+- I have done an internship at Analog Devices/Lyric Labs in Summer 2015.
+- I am visiting [http://www.cs.columbia.edu/~djhsu/ Daniel Hsu] at Columbia U. in Spring 2015. 
+- I am a qualified PhD student! (passed qual) Here's my [papers/ycemsubakan_qual.pdf qual presentation].
+- Our paper [papers/nips2014.pdf ``Spectral Learning of Mixture of Hidden Markov Models''] is accepted to NIPS 2014!
+- Our DSP [http://www.sciencedirect.com/science/article/pii/S1051200414000517 paper] got accepted!
+- We have presented a [papers/mmarkov.pdf paper] in NIPS2013 spectral learning workshop.
+- I have successfully defended my [papers/thesis.pdf M.Sc. thesis].   
+
+== Contact
+
+email:
+~~~
+{}{img_left}{images/mail.jpg}{mail}{325}{46}{}
+~~~
