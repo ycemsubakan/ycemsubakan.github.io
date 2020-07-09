@@ -3,21 +3,22 @@
 
 ~~~
 {}{img_left}{images/cem4_c.jpg}{cem}{340}{300}{images/cem4.jpg}
-Y. Cem Subakan, Postdoctoral Researcher \n
+Y. Cem Subakan, Research Scientist \n
 Mila, Quebec Institute of Artificial Intelligence  
 \n
 ~~~
 
-I obtained my B.Sc. and M.Sc. degrees from [http://www.ee.boun.edu.tr Bogazici University EE department], respectively in 2011 and 2013. In Bogazici, I worked with [http://www.cmpe.boun.edu.tr/~cemgil/index.html A. Taylan Cemgil] and [http://www.busim.ee.boun.edu.tr/~sankur/ Bulent Sankur]. I got my PhD from [http://www.cs.illinois.edu Computer Science Department] of [http://www.illinois.edu University of Illinois at Urbana-Champaign]. My PhD advisor was [http://www.cs.illinois.edu/~paris/ Paris Smaragdis]. In Mila, I work with [http://www.cs.toronto.edu/~lcharlin/ Laurent Charlin].
+I obtained my B.Sc. and M.Sc. degrees from [http://www.ee.boun.edu.tr Bogazici University EE department], respectively in 2011 and 2013. In Bogazici, I worked with [http://www.cmpe.boun.edu.tr/~cemgil/index.html A. Taylan Cemgil] and [http://www.busim.ee.boun.edu.tr/~sankur/ Bulent Sankur]. I got my PhD from [http://www.cs.illinois.edu Computer Science Department] of [http://www.illinois.edu University of Illinois at Urbana-Champaign]. My PhD advisor was [http://www.cs.illinois.edu/~paris/ Paris Smaragdis]. In Mila, I did a postdoc with [http://www.cs.toronto.edu/~lcharlin/ Laurent Charlin]. Currently, I am with the Applied Research Team at Mila. 
 
 == Research Interests
 
+- Audio Source separation 
+- Deep Generative Models
 - Machine Learning, Statistical Learning
 - Time series modeling
 - Bayesian inference
 - Non-convex optimization
 - Method of Moments based learning algorithms for Latent Variable Models
-- Source separation 
 
 == Representative papers
 
@@ -27,6 +28,8 @@ I obtained my B.Sc. and M.Sc. degrees from [http://www.ee.boun.edu.tr Bogazici U
 
 == Timeline
 
+- Our paper `On the Effectiveness of Two-Step Learning for Latent-Variable Models`, is accepted to MLSP 2020. 
+- Our [https://www.biorxiv.org/content/biorxiv/early/2020/06/05/2020.06.04.134635.full.pdf paper] is accepted to MICCAI 2020.
 - Our [https://arxiv.org/abs/1709.07908 paper] won the best student paper award in MLSP 2017. 
 - I have visited Columbia in Fall 2015. 
 - I have done an internship at Analog Devices/Lyric Labs in Summer 2015.

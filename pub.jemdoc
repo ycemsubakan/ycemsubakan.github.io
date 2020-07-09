@@ -14,6 +14,14 @@
 
 == Conference
 
+- "On the Effectiveness of Two-Step Learning for Latent-Variable Models", MLSP 2020, C. Subakan, M. Gasse, L. Charlin
+
+- "A generative modeling approach for interpreting population-level variability in brain structure", MICCAI 2020, R. Liu, C. Subakan, A.H. Balwani, J.D. Whitesell, J.A. Harris, S. Koyejo, E. Dyer [https://www.biorxiv.org/content/biorxiv/early/2020/06/05/2020.06.04.134635.full.pdf pdf]
+
+- "Two-Step Sound Source Separation: Training On Learned Latent Targets", ICASSP 2020, E. Tzinis, S. Venkataramani, Z. Wang, C. Subakan, P. Smaragdis [https://arxiv.org/pdf/1910.09804.pdf pdf]
+
+- "Continual Learning of New Sound Classes Using Generative Replay", WASPAA 2019, Z. Wang, C. Subakan, E. Tzinis, P. Smaragdis, L. Charlin [https://arxiv.org/pdf/1906.00654.pdf pdf]
+
 - "Generative Adversarial Source Separation", ICASSP 2018, Y.C. Subakan; P.Smaragdis [https://arxiv.org/abs/1710.10779 arxiv_link], [talks/pres.pdf presentation] 
 
 - "Neural Network Alternatives to Convolutive Models for Source Separation", *(Won the best student paper award)* IEEE Workshop on Machine Learning for Signal Processing (MLSP)  2017, S. Venkataramani; Y.C. Subakan; P. Smaragdis [https://arxiv.org/abs/1709.07908 arxiv_link]
@@ -53,8 +61,6 @@
 - ``Towards Lifelong Learning via Maximum Entropy Generative Replay'', 2019, Y.C. Subakan, M. Caccia, T. Lesort, L. Charlin 
 
 - ``A Latent Template Network for Discriminative Source Separation Using Attention Mechanism'', 2018, Y.C. Subakan, M. Caccia, L. Charlin 
-
-- “Generative Modeling of Structural Neuroimaging Data”, 2018, Y. C. Subakan; Maitham Naeemi; Julie Harris; Oluwasanmi Koyejo; Eva L. Dyer 
 
 - “Learning the Base Distribution in Implicit Generative Models”, 2018, Y. C. Subakan; O. Koyejo; P. Smaragdis; [https://arxiv.org/abs/1803.04357 arxiv_link]
 
