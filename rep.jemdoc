@@ -13,7 +13,9 @@
 
 - Space Efficient Implementation of the Tensor Power Method (Method of moments without forming the moment tensor!). Here are the files: [reps/tensor_power_method.zip files]  
 
-== Talks
+== Talks / Tutorials
+
+- March 2020, Mila Applied Research Team Reinforcement Learning Introduction [talks/rl_tut.pdf slides] 
 
 - November 2017, UIUC CS598PS Guest lecture on implicit generative model learning (GANs are an instance of this) [talks/pres2.pdf  slides]
 
