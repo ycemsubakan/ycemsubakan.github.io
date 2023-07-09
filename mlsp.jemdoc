@@ -1,6 +1,8 @@
-= IFT 4030/7030: Machine Learning For Signal Processing
+= IFT 4030/7030: Machine Learning for Signal Processing (MLSP)
 
-This class is about learning to build machine learning algorithms for signals. Different from a standard machine learning class, we will have a little bit more of an EE flavor to things. 
+Instructor: [https://ycemsubakan.github.io/ Cem Subakan]
+
+This class is about learning to build machine learning algorithms for signals. Different from a standard machine learning class, we will have a little bit more of an EE flavor to things. That is, we will often work with sequential data such as speech and audio, and other signals. We will give the necessary background to be able to propose and carry out a research or applied project in the domain of machine learning for signal processing. In the end, our goal is to teach how to fish (for MLSP projects)!
 
 
 == Schedule (Tentative) 
