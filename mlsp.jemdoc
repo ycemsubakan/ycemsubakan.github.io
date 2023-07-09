@@ -1,6 +1,9 @@
 = IFT 4030/7030: Machine Learning For Signal Processing
 
-This class is about learning to build machine learning algorithms for signals. Different from a standard machine learning class, we will have a little bit more of an EE flavor to things. Here's the tentative schedule:
+This class is about learning to build machine learning algorithms for signals. Different from a standard machine learning class, we will have a little bit more of an EE flavor to things. 
+
+
+== Schedule (Tentative) 
 
 Week 1 : Linear Algebra Refresher
 	- Matrix multiplication
@@ -81,7 +84,8 @@ Week 12: Images and Text, Multi-modal models
 Week 13: Invited Lecture (to be determined) 
 	
 	 	
+== Evaluation
 
-	
-	
+	There will be 4-5 homeworks (50\%), and a project (45\%) that will be carried out by teams of 2-3 students. It is preferable that the students propose the project, but we will propose several projects ideas also. The project presentations will be during a poster session or an oral presentation session depending on the number of students, and we will evaluate a final report. There will also be a grade based on participation (5\%). 
+
 	 
