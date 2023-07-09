@@ -1,4 +1,3 @@
-# jemdoc: menu{MENU}{rep.html}
 = IFT 4030/7030: Machine Learning For Signal Processing
 
 - This class is about learning to build machine learning algorithms for signals. Different from a standard Machine Learning Class, we will have a little bit more of an EE flavor to things. 
