@@ -4,6 +4,7 @@ Instructor : [https://ycemsubakan.github.io/ Cem Subakan]
 
 This class is about learning to build machine learning algorithms for signals. Different from a standard machine learning class, we will have a little bit more of an EE flavor to things. That is, we will often work with sequential data such as speech and audio, and other signals. We will give the necessary background to be able to propose and carry out a research or applied project in the domain of machine learning for signal processing. In the end, our goal is to teach how to fish (for MLSP projects)!
 
+This class is influenced by classes with the same title in [https://sites.google.com/illinois.edu/cs545/home UIUC], [https://www.cs.cmu.edu/~bhiksha/courses/mlsp.fall2017/index.html CMU], and [https://www.coursicle.com/indiana/courses/ENGRE/511/ Indiana University]. 
 
 == Schedule (Tentative) 
 
