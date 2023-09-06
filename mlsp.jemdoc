@@ -8,7 +8,7 @@ This class is influenced by classes with the same title in [https://sites.google
 
 == Schedule (Tentative) 
 
-Week 1 : Linear Algebra Refresher
+Week 1 : Linear Algebra Refresher [class_slides/mlsp_week1.pdf slides]
 	- Matrix multiplication
 	- Index, Matrix, Tensor notations
 	- Eigenvalues, Eigenvectors 
