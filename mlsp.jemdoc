@@ -30,14 +30,13 @@ Week 3: Signal Processing Refresher [class_slides/mlsp_week3.pdf slides]
 	- Filtering
 	- Mechnanics of Convolution in Time Domain, Convolution as a Matrix Multiply
 	
-Week 4: Machine Learning 1: Decomposition 
+Week 4: Machine Learning 1: Decomposition [class_slides/mlsp_week4.pdf slides]
 	- Linear Regression 
 	- Linear Regression connections with Fourier Transform
 	- Dimensionality Reduction, PCA and its variants, ICA, NMF
-	- Manifold Learning Methods (e.g. ISOMAP, LLE, TSNE) 
-	- Tensor Decompositions 
 
-Week 5: Machine Learning 2: Classification
+Week 5: Machine Learning 2: Manifold Learning/Classification
+	- Manifold Learning Methods (e.g. ISOMAP, LLE, TSNE) 
 	- Linear Classification
 	- Maximum Margin Classification
 	- Boosting
