@@ -42,6 +42,7 @@ Week 5: Machine Learning 2: Non-linear Dimensionality Reduction [class_slides/ml
 		-- ISOMAP
 		-- Locally Linear Embeddings
 		-- Laplacian Eigenmaps
+		-- TSNE
 
 Week 6: Machine Learning 3: Classification and Deep Learning Firearms
 	- Linear Classification
