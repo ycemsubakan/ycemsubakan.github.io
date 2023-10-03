@@ -35,20 +35,23 @@ Week 4: Machine Learning 1: Decompositions [class_slides/mlsp_week4.pdf slides]
 	- Linear Regression connections with Fourier Transform
 	- Dimensionality Reduction, PCA and its variants, ICA, NMF
 
-Week 5: Machine Learning 2: Manifold Learning/Classification
-	- Manifold Learning Methods (e.g. ISOMAP, LLE, TSNE) 
+Week 5: Machine Learning 2: Non-linear Dimensionality Reduction [class_slides/mlsp_week5.pdf slides]
+	- Kernel PCA
+	- Multidimensional Scaling
+	- Manifold Learning Methods
+		-- ISOMAP
+		-- Locally Linear Embeddings
+		-- Laplacian Eigenmaps
+
+Week 6: Machine Learning 3: Classification and Deep Learning Firearms
 	- Linear Classification
 	- Maximum Margin Classification
-	- Boosting
-	- Non-linear classification with Neural Networks, connections with logistic regression
-
-Week 6: Machine Learning 3: Deep Learning Firearms
-	- Linear Layers
-	- Convolutional Layers
-	- Recurrent Layers
-	- Normalization Business
-	- Attention Layers
-	- A bit of history including Boltzmann and Hopfield Networks
+	- Deep Learning
+		-- Linear Layers
+		-- Convolutional Layers
+		-- Recurrent Layers
+		-- Normalization Business
+		-- Attention Layers
 	
 Week 7: Optimization Intermission
 	- Convex Optimization
