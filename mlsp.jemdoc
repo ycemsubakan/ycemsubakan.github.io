@@ -52,16 +52,13 @@ Week 6: Machine Learning 3: Classification [class_slides/mlsp_week6.pdf slides]
 	- Kernel Logistic Regression
 	- Neural Network Classifier
 		
-Week 7: Deep Learning and Optimization (tentative) 
-	- Deep Learning
-		-- Linear Layers
-		-- Convolutional Layers
-		-- Recurrent Layers
-		-- Normalization Business
-		-- Attention Layers
-	- Convex Optimization
-	- Gradient Descent, Gradient Descent with constraints
-	- Non-Convex Optimization 
+Week 7: Deep Learning Primer [class_slides/mlsp_week7.pdf slides]
+	- Feedforward Networks
+	- Skip Connections
+	- Convolutional Layers
+	- Recurrent Layers
+	- Attention Layers
+	- Gradient Descent and variants
 
 Week 8: Machine Learning 4: Clustering, and Unsupervised Non-linear learning
 	- Kmeans clustering
