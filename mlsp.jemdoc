@@ -60,14 +60,12 @@ Week 7: Deep Learning Primer [class_slides/mlsp_week7.pdf slides]
 	- Attention Layers
 	- Gradient Descent and variants
 
-Week 8: Machine Learning 4: Clustering, and Unsupervised Non-linear learning
+Week 8: Machine Learning 4: Clustering [class_slides/mlsp_week8.pdf slides]
 	- Kmeans clustering
 	- Mixture Models
 	- Expectation Maximization, Iterative Conditional Modes 
 	- Spectral Clustering
-	- Algorithmic Clustering Methods
-	- Topic Models
-	- Autoencoders, Generative Models
+	- Hierarchical Clustering
 
 Week 9: Time Series Models
 	- AR modeling, linear predictive coding
