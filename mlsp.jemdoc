@@ -60,40 +60,36 @@ Week 7: Deep Learning Primer [class_slides/mlsp_week7.pdf slides]
 	- Attention Layers
 	- Gradient Descent and variants
 
-Week 8: Machine Learning 4: Clustering [class_slides/mlsp_week8.pdf slides]
+Week 8 (Invited Lecture by Sara Karami) [class_slides/sara_week8.pdf slides]
+
+Week 9: Machine Learning 4: Clustering [class_slides/mlsp_week9.pdf slides]
 	- Kmeans clustering
 	- Mixture Models
 	- Expectation Maximization, Iterative Conditional Modes 
 	- Spectral Clustering
 	- Hierarchical Clustering
 
-Week 9: Time Series Models
+Week 10: Time Series Models
 	- AR modeling, linear predictive coding
 	- Non-linear AR models
 	- Hidden Markov Models, Forward-Backward Algorithm
 	- Dynamic Time Warping
 	- Kalman Filtering
 
-Week 10: Graph Signal Processing / Graph ML:
+Week 11: Graph Signal Processing / Graph ML:
 	- Signals as Graphs
 	- Graph Convolutions
 	- Graph Methods for Signal Processing
 	- Graph Neural Networks 
 
-Week 11: Speech
+Week 12: Speech
 	- Basics on Speech Production
 	- Speech Recognition
 	- Text-to-Speech
 	- Speech Enhancement and Speech Separation
 
-Week 12: Images and Text, Multi-modal models
-	- Basic Text Modeling
-	- Self-supervised learning for images and text, masked language modeling
-	- Multi-modal models (e.g. CLIP, CLAP) 
-
-Week 13: Invited Lecture (to be determined) 
+Week 13: Project Presentations
 	
-	 	
 == Evaluation
 
 	There will be 3 homeworks (45\%), labs (10\%) and a project (45\%) that will be carried out by teams of 2-3 students. It is preferable that the students propose the project, but we will propose several projects ideas also. 
