@@ -76,10 +76,11 @@ Week 10: Time Series Models [class_slides/mlsp_week10.pdf slides]
 	- Viterbi Decoding
 	- HMM Variants (Mixture of HMMs, Factorial HMMs,...)  
 
-Week 11: Graph Signal Processing / Graph ML:
+Week 11: Graph Signal Processing / Graph ML [class_slides/mlsp_week11.pdf slides]
 	- Signals as Graphs
-	- Graph Convolutions
+	- Graph Fourier Transform
 	- Graph Methods for Signal Processing
+	- Graph Convolutions
 	- Graph Neural Networks 
 
 Week 12: Speech
