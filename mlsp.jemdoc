@@ -8,7 +8,7 @@ This class is influenced by classes with the same title in [https://sites.google
 
 == Schedule (Tentative) 
 
-Week 1 : Linear Algebra Refresher [class_slides/mlsp_week1.pdf slides]
+Week 1 : Linear Algebra Refresher [class_slides/mlsp_week1.pdf slides], [https://colab.research.google.com/drive/1iY5niqhTOWerV2hjZs550YmNHVWZzGEu?usp=sharing  lab]
 	- Matrix multiplication
 	- Index, Matrix, Tensor notations
 	- Eigenvalues, Eigenvectors 
@@ -17,25 +17,25 @@ Week 1 : Linear Algebra Refresher [class_slides/mlsp_week1.pdf slides]
 	- Tensors, Funky Tensor Mathematics 
 	- Linear Algebraic Matrix Decompositions
 
-Week 2 : Probability Refresher [class_slides/mlsp_week2.pdf slides]
+Week 2 : Probability Refresher [class_slides/mlsp_week2.pdf slides], [https://colab.research.google.com/drive/1MCdHadof1C5coQ8UCc61_9N8fPqm_pvg?usp=sharing lab]
 	- Probability Calculus, Bayes Rule
 	- Continuous and Discrete Random Variables
 	- Multidimensional Random Variables
 	- Probabilistic Graphical Model Conventions
 	
-Week 3: Signal Processing Refresher [class_slides/mlsp_week3.pdf slides]
+Week 3: Signal Processing Refresher [class_slides/mlsp_week3.pdf slides], [https://colab.research.google.com/drive/1hPRD4RmlCNs9bXWV9LcmmnSzgS442j8-?usp=sharing lab]
 	- Continuous and Discrete Signals
 	- Sampling, Analog to Digital Conversion
 	- Fourier Transform, Discrete-Cosine Transform, Short Time Fourier Transform
 	- Filtering
 	- Mechnanics of Convolution in Time Domain, Convolution as a Matrix Multiply
 	
-Week 4: Machine Learning 1: Decompositions [class_slides/mlsp_week4.pdf slides]
+Week 4: Machine Learning 1: Decompositions [class_slides/mlsp_week4.pdf slides], [https://colab.research.google.com/drive/1AXkgIfjb8sjtQrn0c7_QuFhia4EqG8sc?usp=sharing lab]
 	- Linear Regression 
 	- Linear Regression connections with Fourier Transform
 	- Dimensionality Reduction, PCA and its variants, ICA, NMF
 
-Week 5: Machine Learning 2: Non-linear Dimensionality Reduction [class_slides/mlsp_week5.pdf slides]
+Week 5: Machine Learning 2: Non-linear Dimensionality Reduction [class_slides/mlsp_week5.pdf slides], [https://colab.research.google.com/drive/1WVKD1r8wIOK3CQb6AZDz2RNhV52MLGUX?usp=sharing lab]
 	- Kernel PCA
 	- Multidimensional Scaling
 	- Manifold Learning Methods
@@ -44,7 +44,7 @@ Week 5: Machine Learning 2: Non-linear Dimensionality Reduction [class_slides/ml
 		-- Laplacian Eigenmaps
 		-- TSNE
 
-Week 6: Machine Learning 3: Classification [class_slides/mlsp_week6.pdf slides]
+Week 6: Machine Learning 3: Classification [class_slides/mlsp_week6.pdf slides], [https://colab.research.google.com/drive/1uW92KhM5mYrsFevf7m3TlSHGQGHROS6_?usp=sharing lab]
 	- Generative Classification
 	- Discriminative Classification
 	- Perceptron Algorithm
@@ -52,7 +52,7 @@ Week 6: Machine Learning 3: Classification [class_slides/mlsp_week6.pdf slides]
 	- Kernel Logistic Regression
 	- Neural Network Classifier
 		
-Week 7: Deep Learning Primer [class_slides/mlsp_week7.pdf slides]
+Week 7: Deep Learning Primer [class_slides/mlsp_week7.pdf slides], [https://colab.research.google.com/drive/1hIiVY_CcCS5eugKfg3Uukajvj0ydvzG0?usp=sharing lab]
 	- Feedforward Networks
 	- Skip Connections
 	- Convolutional Layers
@@ -62,21 +62,21 @@ Week 7: Deep Learning Primer [class_slides/mlsp_week7.pdf slides]
 
 Week 8 (Invited Lecture by Sara Karami) [class_slides/sara_week8.pdf slides]
 
-Week 9: Machine Learning 4: Clustering [class_slides/mlsp_week9.pdf slides]
+Week 9: Machine Learning 4: Clustering [class_slides/mlsp_week9.pdf slides], [https://colab.research.google.com/drive/1zPSu1tqQEv-qzYFlhE3fzkvH5om7nynw?usp=sharing lab]
 	- Kmeans clustering
 	- Mixture Models
 	- Expectation Maximization, Iterative Conditional Modes 
 	- Spectral Clustering
 	- Hierarchical Clustering
 
-Week 10: Time Series Models [class_slides/mlsp_week10.pdf slides]
+Week 10: Time Series Models [class_slides/mlsp_week10.pdf slides], [https://colab.research.google.com/drive/1qrSerRjfeXO-OzoDC0E_3waoIIs8AWD7?usp=sharing lab]
 	- Dynamic Time Warping
 	- Hidden Markov Models, Forward-Backward Algorithm
 	- EM for HMMs
 	- Viterbi Decoding
 	- HMM Variants (Mixture of HMMs, Factorial HMMs,...)  
 
-Week 11: Graph Signal Processing / Graph ML [class_slides/mlsp_week11.pdf slides]
+Week 11: Graph Signal Processing / Graph ML [class_slides/mlsp_week11.pdf slides], [https://colab.research.google.com/drive/1yufmaK1lBKgkp96cuKas7AuYaAs07hIW?usp=sharing lab]
 	- Signals as Graphs
 	- Graph Fourier Transform
 	- Graph Methods for Signal Processing
