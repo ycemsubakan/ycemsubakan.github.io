@@ -84,11 +84,11 @@ Week 11: Graph Signal Processing / Graph ML [class_slides/mlsp_week11.pdf slides
 	- Graph Neural Networks 
 
 Week 12: Speech / Audio [class_slides/mlsp_week12.pdf slides]
-	- Speech Recognition (ASR)
+	- Automatic Speech Recognition (ASR)
 	- Text-to-Speech
 	- Speech Separation / Enhancement
 	- Interpretability in the Audio Domain
-	- Text-Audio Cross Model Representations
+	- Text-Audio Multi-Modal Representations
 
 Week 13: Project Presentations
 	
