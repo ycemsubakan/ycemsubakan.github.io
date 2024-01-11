@@ -9,10 +9,24 @@
 
 == Journal
 
-- "Probabilistic Sequence Clustering with Spectral Learning'', Elsevier Digital Signal Processing (DSP), Subakan, Y.C.; Kurt, B. ; Cemgil, A.T; Sankur, B. [http://www.sciencedirect.com/science/article/pii/S1051200414000517 elsevier_link] 
+- "CL-MASR: A Continual Learning Benchmark for Multilingual ASR", Submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASL), Luca Della Libera, Pooneh Mousavi, Salah Zaiem, Cem Subakan, Mirco Ravanelli [https://arxiv.org/pdf/2310.16931.pdf arxiv_link]
+
+- "Exploring Self-Attention Mechanisms for Speech Separation", IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASL), Cem Subakan, Mirco Ravanelli, Samuele Cornell, François Grondin, Mirko Bronzi [https://arxiv.org/abs/2202.02884 arxiv_link]
+
+- "Learning Representations for New Sound Classes With Continual Self-Supervised Learning", Zhepei Wang, Cem Subakan, Xilin Jiang, Junkai Wu, Efthymios Tzinis, Mirco Ravanelli, Paris Smaragdis, [https://arxiv.org/abs/2205.07390 arxiv_link]
+
+- "Probabilistic Sequence Clustering with Spectral Learning", Elsevier Digital Signal Processing (DSP), Subakan, Y.C.; Kurt, B. ; Cemgil, A.T; Sankur, B. [http://www.sciencedirect.com/science/article/pii/S1051200414000517 elsevier_link] 
  
 
 == Conference
+
+- "CryCeleb: A Speaker Verification Dataset Based on Infant Cry Sounds", ICASSP 2024, David Budaghyan, Charles C. Onu, Arsenii Gorin, Cem Subakan, Doina Precup, [https://arxiv.org/pdf/2305.00969.pdf arxiv_link] 
+
+- "Resource-efficient separation transformer", ICASSP 2024, Luca Della Libera, Cem Subakan, Mirco Ravanelli, Samuele Cornell, Frédéric Lepoutre, François Grondin, [https://arxiv.org/pdf/2206.09507.pdf arxiv_link]
+
+- "Unsupervised Improvement of Audio-Text Cross-Modal Representations", WASPAA 2023, Zhepei Wang, Cem Subakan, Krishna Subramani, Junkai Wu, Tiago Tavares, Fabio Ayres, Paris Smaragdis, [https://arxiv.org/pdf/2305.01864.pdf arxiv_link]
+
+- "CommonAccent: Exploring Large Acoustic Pretrained Models for Accent Classification Based on Common Voice", Interspeech 2023, Juan Zuluaga-Gomez, Sara Ahmed, Danielius Visockas, Cem Subakan, [https://arxiv.org/pdf/2305.18283.pdf arxiv_link]
 
 - "REAL-M: Towards Speech Separation on Real Mixtures", ICASSP 2022, C. Subakan, M. Ravanelli, S. Cornell, F. Grondin, [https://arxiv.org/pdf/2110.10812v1.pdf arxiv_link]
 
@@ -49,20 +63,21 @@
 
 - "Model Based Bayesian Curve Compression", (Nominated for best paper award), IEEE 20th Signal Processing and Communications Applications Conference (SIU), 2012, Subakan, Y.C.; Sankur, B.; Akgul, C.B. (in Turkish) [http://ycemsubakan.files.wordpress.com/2011/09/bayesegrianalizi_siu2012.pdf pdf]
 
-- "A latent tensor factorization framework for non-negative convolutive models'', IEEE 19th Signal Processing and Communications Applications Conference (SIU), 2011, Simsekli, U.; Subakan, Y.C.; Cemgil, A.T. (in Turkish) [http://ycemsubakan.files.wordpress.com/2011/09/deconvolution_siu.pdf pdf]
+- "A latent tensor factorization framework for non-negative convolutive models", IEEE 19th Signal Processing and Communications Applications Conference (SIU), 2011, Simsekli, U.; Subakan, Y.C.; Cemgil, A.T. (in Turkish) [http://ycemsubakan.files.wordpress.com/2011/09/deconvolution_siu.pdf pdf]
 
 - "An automatic maneuver assessment system for radio controlled acrobatic model helicopter competitions", IEEE 19th Signal Processing and Communications Applications Conference (SIU), 2011, Subakan, Y.C.; Agcaoglu, O.; Sankur, B. (in Turkish) [http://ycemsubakan.files.wordpress.com/2011/09/heli_manevra_siu_2011.pdf pdf]
 
 == Workshop 
+
+- "Self-supervised learning for infant cry analysis", ICASSP 2023 Workshop on Self-Supervised Learning for Speech, Audio and Beyond, Arsenii Gorin, Cem Subakan, Sajjad Abdoli, Junhao Wang, Samantha Latremouille, Charles Onu, [https://arxiv.org/pdf/2305.01578.pdf arxiv_link]
+
+- ``Towards Lifelong Learning via Maximum Entropy Generative Replay'', ICML 2019 Workshop on Continual Learning, Y.C. Subakan, M. Caccia, T. Lesort, L. Charlin 
 
 - " Spectral Learning for Mixture of Markov Models'', Spectral Learning Workshop, Neural Information Processing Systems (NIPS) 2013, Subakan, Y.C.; Kurt, B. ; Cemgil, A.T; Sankur, B. [papers/mmarkov.pdf pdf], [papers/mmarkovsupplement.pdf supplemental], [papers/poster_mmarkov.pdf poster]
 
 - " Spectral Learning of Infinite Mixtures of Hidden Markov Models for Human Action Recognition'', Spectral Learning Workshop, Neural Information Processing Systems (NIPS) 2012, Subakan, Y.C.;  Celiktutan O. ; Cemgil, A.T; Sankur, B. [http://ycemsubakan.files.wordpress.com/2011/09/shmm_clustering.pdf pdf]
 
 == Preprints
-
-
-- ``Towards Lifelong Learning via Maximum Entropy Generative Replay'', 2019, Y.C. Subakan, M. Caccia, T. Lesort, L. Charlin 
 
 - ``A Latent Template Network for Discriminative Source Separation Using Attention Mechanism'', 2018, Y.C. Subakan, M. Caccia, L. Charlin 
 
