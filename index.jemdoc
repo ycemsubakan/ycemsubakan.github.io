@@ -30,6 +30,7 @@ We currently do not have open calls. But shoot me an email if you have experienc
 
 == Representative papers
 
+- [https://arxiv.org/abs/2403.13086 Listenable Maps for Audio Classifiers]
 - [https://arxiv.org/abs/2110.10812 REAL-M: Towards Speech Separation on Real Mixtures] 
 - [https://arxiv.org/abs/2010.13154 Attention is All You Need in Speech Separation]
 - [https://arxiv.org/abs/1803.04357 Learning the Base Distribution in Implicit Generative Models]
@@ -37,7 +38,7 @@ We currently do not have open calls. But shoot me an email if you have experienc
 - [https://papers.nips.cc/paper/5518-spectral-learning-of-mixture-of-hidden-markov-models Spectral Learning of Mixture of HMMs]
 
 == Teaching 
-
+ - [https://ycemsubakan.github.io/mlsp2024.html Machine Learning for Signal Processing (Fall 2024)]
  - [https://ycemsubakan.github.io/mlsp.html Machine Learning for Signal Processing (Fall 2023)]
 
 == Notes from my timeline

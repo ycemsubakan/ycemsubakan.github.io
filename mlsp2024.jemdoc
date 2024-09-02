@@ -1,0 +1,97 @@
+= IFT 4030/7030: Machine Learning for Signal Processing (MLSP)
+
+Instructor : [https://ycemsubakan.github.io/ Cem Subakan]
+
+This class is about learning to build machine learning algorithms for signals. Different from a standard machine learning class, we will have a little bit more of an EE flavor to things. That is, we will often work with sequential data such as speech and audio, and other signals. We will give the necessary background to be able to propose and carry out a research or applied project in the domain of machine learning for signal processing. In the end, our goal is to teach how to fish (for MLSP projects)!
+
+This class is influenced by classes with the same title in [https://sites.google.com/illinois.edu/cs545/home UIUC], [https://www.cs.cmu.edu/~bhiksha/courses/mlsp.fall2017/index.html CMU], and [https://www.coursicle.com/indiana/courses/ENGRE/511/ Indiana University]. 
+
+== Schedule (Tentative -- (means I will probably change things)) 
+
+Week 1 : Linear Algebra Refresher 	
+	- Matrix multiplication
+	- Index, Matrix, Tensor notations
+	- Eigenvalues, Eigenvectors 
+	- Building the reflexes to avoid for loops
+	- Signal representations
+	- Tensors, Funky Tensor Mathematics 
+	- Linear Algebraic Matrix Decompositions
+
+Week 2 : Probability Refresher 	
+	- Probability Calculus, Bayes Rule
+	- Continuous and Discrete Random Variables
+	- Multidimensional Random Variables
+	- Probabilistic Graphical Model Conventions
+	
+Week 3: Signal Processing Refresher 
+	- Continuous and Discrete Signals
+	- Sampling, Analog to Digital Conversion
+	- Fourier Transform, Discrete-Cosine Transform, Short Time Fourier Transform
+	- Filtering
+	- Mechnanics of Convolution in Time Domain, Convolution as a Matrix Multiply
+	
+Week 4: Machine Learning 1: Decompositions 
+	- Linear Regression 
+	- Linear Regression connections with Fourier Transform
+	- Dimensionality Reduction, PCA and its variants, ICA, NMF
+
+Week 5: Machine Learning 2: Non-linear Dimensionality Reduction 
+	- Kernel PCA
+	- Multidimensional Scaling
+	- Manifold Learning Methods
+		-- ISOMAP
+		-- Locally Linear Embeddings
+		-- Laplacian Eigenmaps
+		-- TSNE
+
+Week 6: Machine Learning 3: Classification 
+	- Generative Classification
+	- Discriminative Classification
+	- Perceptron Algorithm
+	- Logistic Regression
+	- Kernel Logistic Regression
+	- Neural Network Classifier
+		
+Week 7: Deep Learning Primer 
+	- Feedforward Networks
+	- Skip Connections
+	- Convolutional Layers
+	- Recurrent Layers
+	- Attention Layers
+	- Gradient Descent and variants
+
+Week 8 (Invited Lecture ??) 
+
+Week 9: Machine Learning 4: Clustering 
+	- Kmeans clustering
+	- Mixture Models
+	- Expectation Maximization, Iterative Conditional Modes 
+	- Spectral Clustering
+	- Hierarchical Clustering
+
+Week 10: Time Series Models 
+	- Dynamic Time Warping
+	- Hidden Markov Models, Forward-Backward Algorithm
+	- EM for HMMs
+	- Viterbi Decoding
+	- HMM Variants (Mixture of HMMs, Factorial HMMs,...)  
+
+Week 11: Graph Signal Processing / Graph ML 
+	- Signals as Graphs
+	- Graph Fourier Transform
+	- Graph Methods for Signal Processing
+	- Graph Convolutions
+	- Graph Neural Networks 
+
+Week 12: Speech / Audio 
+	- Automatic Speech Recognition (ASR)
+	- Text-to-Speech
+	- Speech Separation / Enhancement
+	- Interpretability in the Audio Domain
+	- Text-Audio Multi-Modal Representations
+
+Week 13: Project Presentations
+	
+== Evaluation
+
+	There will be 3 homeworks (45\%), labs (10\%) and a project (45\%) that will be carried out by teams of 2-3 students. It is preferable that the students propose the project, but we will propose several projects ideas also. 
