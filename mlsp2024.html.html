@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title></title>
+</head>
+<body>
+<div id="layout-content">
+<p>&lt;!DOCTYPE html PUBLIC &ldquo;-<i></i>W3C<i></i>DTD XHTML 1.1<i></i>EN&rdquo;
+&ldquo;http:<i></i>www.w3.org<i>TR</i>xhtml11<i>DTD</i>xhtml11.dtd&rdquo;&gt;
+&lt;html xmlns=&ldquo;http:<i></i>www.w3.org<i>1999</i>xhtml&rdquo; xml:lang=&ldquo;en&rdquo;&gt;
+&lt;head&gt;
+&lt;meta name=&ldquo;generator&rdquo; content=&ldquo;jemdoc, see http:<i></i>jemdoc.jaboc.net<i>&rdquo; </i>&gt;
+&lt;meta http-equiv=&ldquo;Content-Type&rdquo; content=&ldquo;text<i>html;charset=utf-8&rdquo; </i>&gt;
+&lt;link rel=&ldquo;stylesheet&rdquo; href=&ldquo;jemdoc.css&rdquo; type=&ldquo;text<i>css&rdquo; </i>&gt;
+&lt;title&gt;IFT 4030<i>7030: Machine Learning for Signal Processing (MLSP)&lt;</i>title&gt;
+&lt;<i>head&gt;
+&lt;body&gt;
+&lt;div id=&ldquo;layout-content&rdquo;&gt;
+&lt;div id=&ldquo;toptitle&rdquo;&gt;
+&lt;h1&gt;IFT 4030</i>7030: Machine Learning for Signal Processing (MLSP)&lt;<i>h1&gt;
+&lt;</i>div&gt;
+&lt;p&gt;Instructor : &lt;a href=&ldquo;https:<i></i>ycemsubakan.github.io<i>&rdquo;&gt;Cem Subakan&lt;</i>a&gt;&lt;<i>p&gt;
+&lt;p&gt;This class is about learning to build machine learning algorithms for signals. Different from a standard machine learning class, we will have a little bit more of an EE flavor to things. That is, we will often work with sequential data such as speech and audio, and other signals. We will give the necessary background to be able to propose and carry out a research or applied project in the domain of machine learning for signal processing. In the end, our goal is to teach how to fish (for MLSP projects)!&lt;</i>p&gt;
+&lt;p&gt;This class is influenced by classes with the same title in &lt;a href=&ldquo;https:<i></i>sites.google.com<i>illinois.edu</i>cs545<i>home&rdquo;&gt;UIUC&lt;</i>a&gt;, &lt;a href=&ldquo;https:<i></i>www.cs.cmu.edu<i>&nbsp;bhiksha</i>courses<i>mlsp.fall2017</i>index.html&rdquo;&gt;CMU&lt;<i>a&gt;, and &lt;a href=&ldquo;https:</i><i>www.coursicle.com</i>indiana<i>courses</i>ENGRE<i>511</i>&rdquo;&gt;Indiana University&lt;<i>a&gt;. &lt;</i>p&gt;
+&lt;h2&gt;Schedule (Tentative &amp;ndash; (means I will probably change things)) &lt;<i>h2&gt;
+&lt;p&gt;Week 1 : Linear Algebra Refresher &lt;a href=&ldquo;class_slides2024</i>mlsp_2024_week1.pdf&rdquo;&gt;slides&lt;<i>a&gt; 	&lt;</i>p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Matrix multiplication&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Index, Matrix, Tensor notations&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Eigenvalues, Eigenvectors &lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Building the reflexes to avoid for loops&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Signal representations&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Tensors, Funky Tensor Mathematics &lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Linear Algebraic Matrix Decompositions&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;<i>ul&gt;
+&lt;p&gt;Week 2 : Probability Refresher &lt;a href=&ldquo;class_slides2024</i>mlsp_2024_week2.pdf&rdquo;&gt;slides&lt;<i>a&gt; &lt;</i>p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Probability Calculus, Bayes Rule&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Continuous and Discrete Random Variables&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Multidimensional Random Variables&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Probabilistic Graphical Model Conventions&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;<i>ul&gt;
+&lt;p&gt;Week 3: Signal Processing Refresher &lt;a href=&ldquo;class_slides2024</i>mlsp_2024_week3.pdf&rdquo;&gt;slides&lt;<i>a&gt; &lt;</i>p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Continuous and Discrete Signals&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Sampling, Analog to Digital Conversion&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Fourier Transform, Discrete-Cosine Transform, Short Time Fourier Transform&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Filtering&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Mechnanics of Convolution in Time Domain, Convolution as a Matrix Multiply&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;<i>ul&gt;
+&lt;p&gt;Week 4: Machine Learning 1: Decompositions &lt;</i>p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Linear Regression &lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Linear Regression connections with Fourier Transform&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Dimensionality Reduction, PCA and its variants, ICA, NMF&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;<i>ul&gt;
+&lt;p&gt;Week 5: Machine Learning 2: Non-linear Dimensionality Reduction &lt;</i>p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Kernel PCA&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Multidimensional Scaling&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Manifold Learning Methods&lt;<i>p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;ISOMAP&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Locally Linear Embeddings&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Laplacian Eigenmaps&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;TSNE&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;</i>ul&gt;</p>
+<p>&lt;<i>li&gt;
+&lt;</i>ul&gt;
+&lt;p&gt;Week 6: Machine Learning 3: Classification &lt;<i>p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Generative Classification&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Discriminative Classification&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Perceptron Algorithm&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Logistic Regression&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Kernel Logistic Regression&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Neural Network Classifier&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;</i>ul&gt;
+&lt;p&gt;Week 7: Deep Learning Primer &lt;<i>p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Feedforward Networks&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Skip Connections&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Convolutional Layers&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Recurrent Layers&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Attention Layers&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Gradient Descent and variants&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;</i>ul&gt;
+&lt;p&gt;Week 8 (Invited Lecture ??) &lt;<i>p&gt;
+&lt;p&gt;Week 9: Machine Learning 4: Clustering &lt;</i>p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Kmeans clustering&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Mixture Models&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Expectation Maximization, Iterative Conditional Modes &lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Spectral Clustering&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Hierarchical Clustering&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;<i>ul&gt;
+&lt;p&gt;Week 10: Time Series Models &lt;</i>p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Dynamic Time Warping&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Hidden Markov Models, Forward-Backward Algorithm&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;EM for HMMs&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Viterbi Decoding&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;HMM Variants (Mixture of HMMs, Factorial HMMs,&amp;hellip;)  &lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;<i>ul&gt;
+&lt;p&gt;Week 11: Graph Signal Processing </i> Graph ML &lt;<i>p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Signals as Graphs&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Graph Fourier Transform&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Graph Methods for Signal Processing&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Graph Convolutions&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Graph Neural Networks &lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;</i>ul&gt;
+&lt;p&gt;Week 12: Speech <i> Audio &lt;</i>p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Automatic Speech Recognition (ASR)&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Text-to-Speech&lt;<i>p&gt;
+&lt;</i>li&gt;
+&lt;li&gt;&lt;p&gt;Speech Separation <i> Enhancement&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Interpretability in the Audio Domain&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;li&gt;&lt;p&gt;Text-Audio Multi-Modal Representations&lt;</i>p&gt;
+&lt;<i>li&gt;
+&lt;</i>ul&gt;
+&lt;p&gt;Week 13: Project Presentations&lt;<i>p&gt;
+&lt;h2&gt;Evaluation&lt;</i>h2&gt;
+&lt;p&gt;There will be 3 homeworks (45<tt>), labs (10</tt>) and a project (45%) that will be carried out by teams of 2-3 students. It is preferable that the students propose the project, but we will propose several projects ideas also. &lt;<i>p&gt;
+&lt;div id=&ldquo;footer&rdquo;&gt;
+&lt;div id=&ldquo;footer-text&rdquo;&gt;
+Page generated 2024-09-18 09:01:46 EDT, by &lt;a href=&ldquo;http:</i><i>jemdoc.jaboc.net</i>&rdquo;&gt;jemdoc&lt;<i>a&gt;.
+&lt;</i>div&gt;
+&lt;<i>div&gt;
+&lt;</i>div&gt;
+&lt;<i>body&gt;
+&lt;</i>html&gt;</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2024-09-25 05:43:29 EDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</div>
+</body>
+</html>
