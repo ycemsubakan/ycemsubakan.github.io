@@ -52,7 +52,7 @@ Week 6: Machine Learning 3: Classification [class_slides2024/mlsp_2024_week6.pdf
 	- Kernel Logistic Regression
 	- Neural Network Classifier
 		
-Week 7: Deep Learning Primer 
+Week 7: Deep Learning Primer [class_slides2024/mlsp_2024_week7.pdf slides] 
 	- Feedforward Networks
 	- Skip Connections
 	- Convolutional Layers
@@ -60,37 +60,37 @@ Week 7: Deep Learning Primer
 	- Attention Layers
 	- Gradient Descent and variants
 
-Week 8 (Invited Lecture ??) 
-
-Week 9: Machine Learning 4: Clustering 
+Week 8: Machine Learning 4: Clustering 
 	- Kmeans clustering
 	- Mixture Models
 	- Expectation Maximization, Iterative Conditional Modes 
 	- Spectral Clustering
 	- Hierarchical Clustering
 
-Week 10: Time Series Models 
+Week 9: Time Series Models 
 	- Dynamic Time Warping
 	- Hidden Markov Models, Forward-Backward Algorithm
 	- EM for HMMs
 	- Viterbi Decoding
 	- HMM Variants (Mixture of HMMs, Factorial HMMs,...)  
 
-Week 11: Graph Signal Processing / Graph ML 
+Week 10: Graph Signal Processing / Graph ML 
 	- Signals as Graphs
 	- Graph Fourier Transform
 	- Graph Methods for Signal Processing
 	- Graph Convolutions
 	- Graph Neural Networks 
 
-Week 12: Speech / Audio 
+Week 11: Speech / Audio 
 	- Automatic Speech Recognition (ASR)
 	- Text-to-Speech
 	- Speech Separation / Enhancement
 	- Interpretability in the Audio Domain
 	- Text-Audio Multi-Modal Representations
 
-Week 13: Project Presentations
+Week 13 (Invited Lecture ??) 
+
+Week 14: Project Presentations
 	
 == Evaluation
 
