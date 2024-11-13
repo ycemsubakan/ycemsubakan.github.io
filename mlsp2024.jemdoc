@@ -74,7 +74,7 @@ Week 9: Time Series Models [class_slides2024/mlsp_2024_week9.pdf slides]
 	- Viterbi Decoding
 	- HMM Variants (Mixture of HMMs, Factorial HMMs,...)  
 
-Week 10: Graph Signal Processing / Graph ML 
+Week 10: Graph Signal Processing / Graph ML [class_slides2024/mlsp_2024_week10.pdf slides] 
 	- Signals as Graphs
 	- Graph Fourier Transform
 	- Graph Methods for Signal Processing
@@ -88,9 +88,7 @@ Week 11: Speech / Audio
 	- Interpretability in the Audio Domain
 	- Text-Audio Multi-Modal Representations
 
-Week 13 (Invited Lecture ??) 
-
-Week 14: Project Presentations
+Week 12-13: Project Presentations
 	
 == Evaluation
 
