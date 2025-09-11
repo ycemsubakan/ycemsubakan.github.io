@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>IFT 4030/7030: Machine Learning for Signal Processing (MLSP)</title>
+</head>
+<body>
+<div id="layout-content">
+<div id="toptitle">
+<h1>IFT 4030/7030: Machine Learning for Signal Processing (MLSP)</h1>
+</div>
+<p>Instructor : <a href="https://ycemsubakan.github.io/">Cem Subakan</a></p>
+<p>This class is about learning to build machine learning algorithms for signals. Different from a standard machine learning class, we will have a little bit more of an EE flavor to things. That is, we will often work with sequential data such as speech and audio, and other signals. We will give the necessary background to be able to propose and carry out a research or applied project in the domain of machine learning for signal processing. In the end, our goal is to teach how to fish (for MLSP projects)!</p>
+<p>This class is influenced by classes with the same title in <a href="https://sites.google.com/illinois.edu/cs545/home">UIUC</a>, <a href="https://www.cs.cmu.edu/~bhiksha/courses/mlsp.fall2017/index.html">CMU</a>, and <a href="https://www.coursicle.com/indiana/courses/ENGRE/511/">Indiana University</a>. </p>
+<h2>Schedule (Tentative &ndash; (means I will probably change things)) </h2>
+<p>Week 1 : Linear Algebra Refresher <a href="class_slides2025/mlsp_2025_week1.pdf">slides</a> 	</p>
+<ul>
+<li><p>Matrix multiplication</p>
+</li>
+<li><p>Index, Matrix, Tensor notations</p>
+</li>
+<li><p>Eigenvalues, Eigenvectors </p>
+</li>
+<li><p>Building the reflexes to avoid for loops</p>
+</li>
+<li><p>Signal representations</p>
+</li>
+<li><p>Tensors, Funky Tensor Mathematics </p>
+</li>
+<li><p>Linear Algebraic Matrix Decompositions</p>
+</li>
+</ul>
+<p>Week 2 : Probability Refresher 	</p>
+<ul>
+<li><p>Probability Calculus, Bayes Rule</p>
+</li>
+<li><p>Continuous and Discrete Random Variables</p>
+</li>
+<li><p>Multidimensional Random Variables</p>
+</li>
+<li><p>Probabilistic Graphical Model Conventions</p>
+</li>
+</ul>
+<p>Week 3: Signal Processing Refresher </p>
+<ul>
+<li><p>Continuous and Discrete Signals</p>
+</li>
+<li><p>Sampling, Analog to Digital Conversion</p>
+</li>
+<li><p>Fourier Transform, Discrete-Cosine Transform, Short Time Fourier Transform</p>
+</li>
+<li><p>Filtering</p>
+</li>
+<li><p>Mechnanics of Convolution in Time Domain, Convolution as a Matrix Multiply</p>
+</li>
+</ul>
+<p>Week 4: Machine Learning 1: Decompositions </p>
+<ul>
+<li><p>Linear Regression </p>
+</li>
+<li><p>Linear Regression connections with Fourier Transform</p>
+</li>
+<li><p>Dimensionality Reduction, PCA and its variants, ICA, NMF</p>
+</li>
+</ul>
+<p>Week 5: Machine Learning 2: Non-linear Dimensionality Reduction  </p>
+<ul>
+<li><p>Kernel PCA</p>
+</li>
+<li><p>Multidimensional Scaling</p>
+</li>
+<li><p>Manifold Learning Methods</p>
+<ul>
+<li><p>ISOMAP</p>
+</li>
+<li><p>Locally Linear Embeddings</p>
+</li>
+<li><p>Laplacian Eigenmaps</p>
+</li>
+<li><p>TSNE</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<p>Week 6: Machine Learning 3: Classification </p>
+<ul>
+<li><p>Generative Classification</p>
+</li>
+<li><p>Discriminative Classification</p>
+</li>
+<li><p>Perceptron Algorithm</p>
+</li>
+<li><p>Logistic Regression</p>
+</li>
+<li><p>Kernel Logistic Regression</p>
+</li>
+<li><p>Neural Network Classifier</p>
+</li>
+</ul>
+<p>Week 7: Deep Learning Primer  </p>
+<ul>
+<li><p>Feedforward Networks</p>
+</li>
+<li><p>Skip Connections</p>
+</li>
+<li><p>Convolutional Layers</p>
+</li>
+<li><p>Recurrent Layers</p>
+</li>
+<li><p>Attention Layers</p>
+</li>
+<li><p>Gradient Descent and variants</p>
+</li>
+</ul>
+<p>Week 8: Machine Learning 4: Clustering </p>
+<ul>
+<li><p>Kmeans clustering</p>
+</li>
+<li><p>Mixture Models</p>
+</li>
+<li><p>Expectation Maximization, Iterative Conditional Modes </p>
+</li>
+<li><p>Spectral Clustering</p>
+</li>
+<li><p>Hierarchical Clustering</p>
+</li>
+</ul>
+<p>Week 9: Time Series Models </p>
+<ul>
+<li><p>Dynamic Time Warping</p>
+</li>
+<li><p>Hidden Markov Models, Forward-Backward Algorithm</p>
+</li>
+<li><p>EM for HMMs</p>
+</li>
+<li><p>Viterbi Decoding</p>
+</li>
+<li><p>HMM Variants (Mixture of HMMs, Factorial HMMs,&hellip;)  </p>
+</li>
+</ul>
+<p>Week 10: Graph Signal Processing / Graph ML </p>
+<ul>
+<li><p>Signals as Graphs</p>
+</li>
+<li><p>Graph Fourier Transform</p>
+</li>
+<li><p>Graph Methods for Signal Processing</p>
+</li>
+<li><p>Graph Convolutions</p>
+</li>
+<li><p>Graph Neural Networks </p>
+</li>
+</ul>
+<p>Week 11: Speech / Audio </p>
+<ul>
+<li><p>Automatic Speech Recognition (ASR)</p>
+</li>
+<li><p>Text-to-Speech</p>
+</li>
+<li><p>Speech Separation / Enhancement</p>
+</li>
+<li><p>Interpretability in the Audio Domain</p>
+</li>
+<li><p>Text-Audio Multi-Modal Representations</p>
+</li>
+</ul>
+<p>Week 12-13: Project Presentations</p>
+<h2>Evaluation</h2>
+<p>There will be 3 homeworks (45%), labs (10%) and a project (45%) that will be carried out by teams of 2-3 students. It is preferable that the students propose the project, but we will propose several projects ideas also. </p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2025-09-11 19:22:41 EDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</div>
+</body>
+</html>
