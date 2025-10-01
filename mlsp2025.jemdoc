@@ -30,7 +30,7 @@ Week 3: Signal Processing Refresher [class_slides2025/mlsp_2025_week3.pdf slides
 	- Filtering
 	- Mechnanics of Convolution in Time Domain, Convolution as a Matrix Multiply
 	
-Week 4: Machine Learning 1: Decompositions 
+Week 4: Machine Learning 1: Decompositions [class_slides2025/mlsp_2025_week4.pdf]
 	- Linear Regression 
 	- Linear Regression connections with Fourier Transform
 	- Dimensionality Reduction, PCA and its variants, ICA, NMF
