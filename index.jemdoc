@@ -1,4 +1,3 @@
-# jemdoc: menu{MENU}{index.html}
 = Y. Cem Subakan 
 
 ~~~
@@ -55,6 +54,7 @@ We currently do not have open calls. But shoot me an email if you have experienc
  - [https://ycemsubakan.github.io/mlsp2026.html Machine Learning for Signal Processing (Fall 2026)]
 
 == Notes from my timeline
+- Four of our papers are accepted to Interspeech 2026!
 - Three of our papers are accepted to ICASSP 2026!
 - [https://arxiv.org/abs/2502.04465 Our paper] is accepted to NeurIPS 2025!
 - Two of our papers and one workshop paper are accepted to ICASSP 2025!
@@ -83,4 +83,5 @@ email:
 ~~~
 {}{img_left}{images/mail.jpg}{mail}{325}{46}{}
 ~~~
+
 
