@@ -35,7 +35,7 @@ Week 4: Machine Learning 1: Decompositions [class_slides2026/mlsp2026_week4.pdf 
 	- Linear Regression connections with Fourier Transform
 	- Dimensionality Reduction, PCA and its variants, ICA, NMF
 
-Week 5: Machine Learning 2: Non-linear Dimensionality Reduction 
+Week 5: Machine Learning 2: Non-linear Dimensionality Reduction [class_slides2026/mlsp2026_week5.pdf slides] [class_slides2026/mlsp2026_week5_compact.pdf compact_slides] 	
 	- Kernel PCA
 	- Multidimensional Scaling
 	- Manifold Learning Methods
@@ -43,6 +43,7 @@ Week 5: Machine Learning 2: Non-linear Dimensionality Reduction
 		-- Locally Linear Embeddings
 		-- Laplacian Eigenmaps
 		-- TSNE
+	- VAEs, Nonlinear ICA
 
 Week 6: Machine Learning 3: Classification 
 	- Generative Classification
