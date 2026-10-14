@@ -45,7 +45,7 @@ Week 5: Machine Learning 2: Non-linear Dimensionality Reduction [class_slides202
 		-- TSNE
 	- VAEs, Nonlinear ICA
 
-Week 6: Machine Learning 3: Classification 
+Week 6: Machine Learning 3: Classification [class_slides2026/mlsp2026_week6.pdf slides] [class_slides2026/mlsp2026_week6_compact.pdf compact_slides] 	
 	- Generative Classification
 	- Discriminative Classification
 	- Perceptron Algorithm
