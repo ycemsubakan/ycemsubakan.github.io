@@ -61,12 +61,16 @@ Week 7: Deep Learning Intro [class_slides2026/mlsp2026_week7.pdf slides] [class_
 	- Attention Layers
 	- Gradient Descent and variants
 
-Week 8: Machine Learning 4: Clustering 
+Week 8: Machine Learning 4: Clustering + Deep Generative Models
 	- Kmeans clustering
 	- Mixture Models
 	- Expectation Maximization, Iterative Conditional Modes 
 	- Spectral Clustering
 	- Hierarchical Clustering
+	- Deep Generative Models
+		-- VAEs
+		-- GANs
+		-- Diffusion Models
 
 Week 9: Time Series Models 
 	- Dynamic Time Warping
