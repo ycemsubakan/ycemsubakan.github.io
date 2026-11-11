@@ -72,12 +72,14 @@ Week 8: Machine Learning 4: Clustering + Deep Generative Models [class_slides202
 		-- GANs
 		-- Diffusion Models
 
-Week 9: Time Series Models 
+Week 9: Time Series Models [class_slides2026/mlsp2026_week9.pdf slides] [class_slides2026/mlsp2026_week9_compact.pdf compact_slides] 	
 	- Dynamic Time Warping
 	- Hidden Markov Models, Forward-Backward Algorithm
 	- EM for HMMs
 	- Viterbi Decoding
 	- HMM Variants (Mixture of HMMs, Factorial HMMs,...)  
+	- Autoregressive Models
+	- LLMs
 
 Week 10: Graph Signal Processing / Graph ML 
 	- Signals as Graphs
