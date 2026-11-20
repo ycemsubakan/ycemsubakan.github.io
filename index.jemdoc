@@ -32,8 +32,9 @@ We currently do not have open calls. But shoot me an email if you have experienc
 
 == Research Interests
 
-- Time series modeling
 - Interpretable Machine Learning, Explainability, Posthoc Interpretations
+- Audio Language Models / Multimodal Language Models
+- Time series modeling
 - Audio Source separation / Speech Enhancement 
 - Deep Generative Models
 - Machine Learning, Statistical Learning
@@ -43,6 +44,8 @@ We currently do not have open calls. But shoot me an email if you have experienc
 
 == Representative papers
 
+- [https://arxiv.org/abs/2610.10749 Listen-to-Reason] 
+- [https://arxiv.org/pdf/2607.20938 Controllable Content Based Recommendations]
 - [https://arxiv.org/abs/2403.13086 Listenable Maps for Audio Classifiers]
 - [https://arxiv.org/abs/2110.10812 REAL-M: Towards Speech Separation on Real Mixtures] 
 - [https://arxiv.org/abs/2010.13154 Attention is All You Need in Speech Separation]
